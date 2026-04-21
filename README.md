@@ -15,7 +15,8 @@
 <br>
 
 <br>
-## What this is
+
+## What this is ?
 
 A polished, mobile-first registration and info page for a student hackathon. Includes hero, event details, tracks, timeline, FAQ, organizer section, and registration CTA.
 
