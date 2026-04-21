@@ -19,6 +19,7 @@
   --accent-hover: #06b6d4;
   --accent-glow: rgba(34, 211, 238, 0.08);
 
+  --space-2xs: 0.125rem;
   --space-xs: 0.25rem;
   --space-sm: 0.5rem;
   --space-md: 1rem;
