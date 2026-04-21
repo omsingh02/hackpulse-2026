@@ -1,7 +1,20 @@
-# HackPulse 2026
+<div align="center">
+  <h1>HackPulse 2026</h1>
+  <p><strong>Demo event landing page for a fictional 36-hour college hackathon.</strong></p>
+  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Website-22d3ee?style=for-the-badge)](https://omsingh02.github.io/hackpulse-2026/)
+  [![Main Offer](https://img.shields.io/badge/Portfolio_of-Om_Singh-black?style=for-the-badge)](https://omsingh02.github.io/weekend-launch-page/)
 
-Demo event landing page for a fictional 36-hour college hackathon. Built as a portfolio demo to show the kind of event pages I deliver through my [Weekend Launch Page](https://omsingh02.github.io/weekend-launch-page/) service.
+  <br>
+  
+  <a href="https://omsingh02.github.io/hackpulse-2026/">
+    <img src="https://api.microlink.io/?url=https://omsingh02.github.io/hackpulse-2026/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview of HackPulse 2026" width="800">
+  </a>
+</div>
 
+<br>
+
+<br>
 ## What this is
 
 A polished, mobile-first registration and info page for a student hackathon. Includes hero, event details, tracks, timeline, FAQ, organizer section, and registration CTA.
